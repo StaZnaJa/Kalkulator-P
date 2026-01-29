@@ -1,4 +1,5 @@
 {
+  "version": "1.0.1"
   "name": "Kalkulator PIO",
   "short_name": "PIO",
   "start_url": "./index.html",
