@@ -1,7 +1,7 @@
 {
   "name": "Kalkulator PIO",
   "short_name": "PIO",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
