@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pio-kalkulator-cache-v1';
+const CACHE_NAME = 'pio-kalkulator-cache-v1.1';
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
